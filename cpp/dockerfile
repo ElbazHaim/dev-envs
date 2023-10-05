@@ -1,0 +1,4 @@
+FROM silkeh/clang:16-bullseye
+WORKDIR /app
+COPY . /app
+
