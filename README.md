@@ -1,3 +1,3 @@
-# DEV Containers 
+# DEV Environments 
 
-This repo contains working directories and dockerfiles to build general purpose dev containers. 
+This repo contains working directories and dockerfiles that I generally use for dev envs. 
