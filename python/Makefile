@@ -21,8 +21,7 @@ lint:
 test:
 	python3 -m pytest -v -rP -x test_*.py
 
-
-local:
+all:
 	make \
 	install \
 	submodules \
